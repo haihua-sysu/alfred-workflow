@@ -6,4 +6,4 @@ Below is the screenshoot of this workflow.
 
 ![Linggle screenshoot](linggle.jpg)
 
-To learn more about Linggle, please visit ![Linggle](http://linggle.com/).
+To learn more about Linggle, please visit [Linggle](http://linggle.com/).
